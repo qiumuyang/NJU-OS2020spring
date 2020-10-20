@@ -1,0 +1,9 @@
+*.pdf
+.DS_Store
+*.bin
+*.o
+*.elf
+*.img
+genFS
+!genFS/
+.vscode/
